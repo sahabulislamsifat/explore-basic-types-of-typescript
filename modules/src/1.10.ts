@@ -37,7 +37,7 @@
       road: "Bagan bari road",
       city: "Rangpur",
       presentAddress: "Dhaka",
-      // permanentAddress: "Rangpur Division",
+      permanentAddress: "Rangpur Division",
     },
   };
   // console.log(user);
